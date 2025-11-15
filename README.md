@@ -32,16 +32,16 @@
 
 <table>
   <tr>
-    <td><img src="screenshots/Docker File Terminal View.png" alt="Dockerfile" width="400"/></td>
-    <td><img src="screenshots/Docker Compose File Terminal View.png" alt="Docker Compose" width="400"/></td>
+    <td><img src="https://github.com/Abhikanade17112002/Docker-Containerised-Spring-Boot-Expense-Tracking-App/blob/main/src/main/resources/static/screenshots/Docker%20File%20Terminal%20View.png" alt="Dockerfile" width="400"/></td>
+    <td><img src="[screenshots/Docker Compose File Terminal View.png](https://github.com/Abhikanade17112002/Docker-Containerised-Spring-Boot-Expense-Tracking-App/blob/main/src/main/resources/static/screenshots/Docker%20Compose%20File%20Terminal%20View.png)" alt="Docker Compose" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Docker Containers Terminal View.png" alt="Containers" width="400"/></td>
-    <td><img src="screenshots/Docker Images Terminal View.png" alt="Images" width="400"/></td>
+    <td><img src="https://github.com/Abhikanade17112002/Docker-Containerised-Spring-Boot-Expense-Tracking-App/blob/main/src/main/resources/static/screenshots/Docker%20Containers%20Terminal%20View.png" alt="Containers" width="400"/></td>
+    <td><img src="https://github.com/Abhikanade17112002/Docker-Containerised-Spring-Boot-Expense-Tracking-App/blob/main/src/main/resources/static/screenshots/Docker%20Images%20Terminal%20View.png" alt="Images" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Instance Overview.png" alt="EC2 Instance" width="400"/></td>
-    <td><img src="screenshots/Security Group Overview.png" alt="Security Group" width="400"/></td>
+    <td><img src="https://github.com/Abhikanade17112002/Docker-Containerised-Spring-Boot-Expense-Tracking-App/blob/main/src/main/resources/static/screenshots/Instance%20Overview.png" alt="EC2 Instance" width="400"/></td>
+    <td><img src="https://github.com/Abhikanade17112002/Docker-Containerised-Spring-Boot-Expense-Tracking-App/blob/main/src/main/resources/static/screenshots/Security%20Group%20Overview.png" alt="Security Group" width="400"/></td>
   </tr>
 </table>
 
