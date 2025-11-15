@@ -9,6 +9,42 @@
 ![Container](https://img.shields.io/badge/Container-Docker-blue.svg)
 ![Deployment](https://img.shields.io/badge/Deployment-AWS_EC2-orange.svg)
 
+
+## 🖼 **Screenshots**
+
+### 🔹 Application Screens
+
+<table>
+  <tr>
+    <td><img src="screenshots/Home Page.png" alt="Home Page" width="400"/></td>
+    <td><img src="screenshots/Sign Up Page.png" alt="Sign Up" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Add Expense.png" alt="Add Expense" width="400"/></td>
+    <td><img src="screenshots/Expenses View.png" alt="Expenses View" width="400"/></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="screenshots/About Page.png" alt="About Page" width="400"/></td>
+  </tr>
+</table>
+
+### 🔹 Docker & AWS Deployment
+
+<table>
+  <tr>
+    <td><img src="screenshots/Docker File Terminal View.png" alt="Dockerfile" width="400"/></td>
+    <td><img src="screenshots/Docker Compose File Terminal View.png" alt="Docker Compose" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Docker Containers Terminal View.png" alt="Containers" width="400"/></td>
+    <td><img src="screenshots/Docker Images Terminal View.png" alt="Images" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Instance Overview.png" alt="EC2 Instance" width="400"/></td>
+    <td><img src="screenshots/Security Group Overview.png" alt="Security Group" width="400"/></td>
+  </tr>
+</table>
+
 > A production-ready **Expense Tracking Web Application** built with **Spring Boot**, secured with **Spring Security**, and fully **Docker-containerised** for seamless deployment on AWS EC2.
 
 ---
@@ -267,40 +303,7 @@ http://<EC2_PUBLIC_IP>:8080
 
 ---
 
-## 🖼 **Screenshots**
 
-### 🔹 Application Screens
-
-<table>
-  <tr>
-    <td><img src="screenshots/Home Page.png" alt="Home Page" width="400"/></td>
-    <td><img src="screenshots/Sign Up Page.png" alt="Sign Up" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/Add Expense.png" alt="Add Expense" width="400"/></td>
-    <td><img src="screenshots/Expenses View.png" alt="Expenses View" width="400"/></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="screenshots/About Page.png" alt="About Page" width="400"/></td>
-  </tr>
-</table>
-
-### 🔹 Docker & AWS Deployment
-
-<table>
-  <tr>
-    <td><img src="screenshots/Docker File Terminal View.png" alt="Dockerfile" width="400"/></td>
-    <td><img src="screenshots/Docker Compose File Terminal View.png" alt="Docker Compose" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/Docker Containers Terminal View.png" alt="Containers" width="400"/></td>
-    <td><img src="screenshots/Docker Images Terminal View.png" alt="Images" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/Instance Overview.png" alt="EC2 Instance" width="400"/></td>
-    <td><img src="screenshots/Security Group Overview.png" alt="Security Group" width="400"/></td>
-  </tr>
-</table>
 
 ---
 
