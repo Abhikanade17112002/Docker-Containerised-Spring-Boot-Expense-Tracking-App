@@ -16,15 +16,15 @@
 
 <table>
   <tr>
-    <td><img src="screenshots/Home Page.png" alt="Home Page" width="400"/></td>
-    <td><img src="screenshots/Sign Up Page.png" alt="Sign Up" width="400"/></td>
+    <td><img src="https://github.com/Abhikanade17112002/Docker-Containerised-Spring-Boot-Expense-Tracking-App/blob/main/src/main/resources/static/screenshots/Home%20Page.png" alt="Home Page" width="400"/></td>
+    <td><img src="https://github.com/Abhikanade17112002/Docker-Containerised-Spring-Boot-Expense-Tracking-App/blob/main/src/main/resources/static/screenshots/Sign%20Up%20Page.png" alt="Sign Up" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Add Expense.png" alt="Add Expense" width="400"/></td>
-    <td><img src="screenshots/Expenses View.png" alt="Expenses View" width="400"/></td>
+    <td><img src="https://github.com/Abhikanade17112002/Docker-Containerised-Spring-Boot-Expense-Tracking-App/blob/main/src/main/resources/static/screenshots/Add%20Expense.png" alt="Add Expense" width="400"/></td>
+    <td><img src="https://github.com/Abhikanade17112002/Docker-Containerised-Spring-Boot-Expense-Tracking-App/blob/main/src/main/resources/static/screenshots/Expenses%20View.png" alt="Expenses View" width="400"/></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="screenshots/About Page.png" alt="About Page" width="400"/></td>
+    <td colspan="2"><img src="https://github.com/Abhikanade17112002/Docker-Containerised-Spring-Boot-Expense-Tracking-App/blob/main/src/main/resources/static/screenshots/About%20Page.png" alt="About Page" width="400"/></td>
   </tr>
 </table>
 
