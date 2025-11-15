@@ -38,7 +38,7 @@ public class ExpenseServiceImpl implements ExpenseService {
     @Transactional
     @Override
     public void save(ExpenseDTO expenseDTO) {
-        System.out.println(expenseDTO);
+        System.out.println("here EXPENSE DTO ==> " + expenseDTO);
         Expense expense = new Expense();
         expense.setAmount(expenseDTO.getAmount());
         expense.setDateTime(expenseDTO.getDateTime());
@@ -46,6 +46,8 @@ public class ExpenseServiceImpl implements ExpenseService {
         expense.setClient(clientService.findClientById(expenseDTO.getClientId()));
         Category category = categoryService.findCategoryByName(expenseDTO.getCategory());
         expense.setCategory(category);
+        System.out.println("here Category ==> " + category);
+        System.out.println("here expense ==> " + expense);
         expenseRepository.save(expense);
     }
 

@@ -49,6 +49,8 @@ public class MainController {
     public String submitAdd(@ModelAttribute("expense") ExpenseDTO expenseDTO, HttpSession session){
         Client client = (Client) session.getAttribute("client");
         expenseDTO.setClientId(client.getId());
+
+
         expenseService.save(expenseDTO);
         return "redirect:/list";
     }
@@ -58,7 +60,10 @@ public class MainController {
         Client client = (Client) session.getAttribute("client");
         int clientId = client.getId();
         List<Expense> expenseList = expenseService.findAllExpensesByClientId(clientId);
+
+
         for (Expense expense : expenseList){
+            System.out.println("expense  ==> " + expense) ;
             expense.setCategoryName(categoryService.findCategoryById(expense.getCategory().getId()).getName());
             expense.setDate(LocalDateTime.parse(expense.getDateTime(), DateTimeFormatter.ISO_LOCAL_DATE_TIME).toLocalDate().toString());
             expense.setTime(LocalDateTime.parse(expense.getDateTime(), DateTimeFormatter.ISO_LOCAL_DATE_TIME).toLocalTime().toString());
